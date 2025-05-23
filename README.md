@@ -1,4 +1,4 @@
-# Jake-Griffiths-2
+# Jake-Griffiths-Project
 # Weather Dashboard Application
 
 A responsive weather application that provides real-time weather data and forecasts.
